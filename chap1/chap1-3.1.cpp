@@ -52,8 +52,6 @@ void quicksort(int left, int right)
 	return;
 }
 
-
-
 int main()
 {
 	int i, j;
@@ -71,7 +69,6 @@ int main()
 	{
 		printf("%d,", a[i]);
 	}
-
 
 	system("pause");
 	return 0;
