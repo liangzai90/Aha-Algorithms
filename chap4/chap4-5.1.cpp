@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-///宝岛探险，深度优先搜索
+///宝岛探险，广度优先搜索
 /*
 0：表示海洋
 1~9：表示陆地
