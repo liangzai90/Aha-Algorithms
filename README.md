@@ -15,8 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- [第 1 章 排序](https://github.com/liangzai90/Aha-Algorithms/tree/master/chap1)
-- [第 2 章 栈、队列、链表] (https://github.com/liangzai90/Aha-Algorithms/tree/master/chap2)
+- 第1 章
+[排序](https://github.com/liangzai90/Aha-Algorithms/tree/master/chap1)
+
+- 第2章
+[栈、队列、链表] (https://github.com/liangzai90/Aha-Algorithms/tree/master/chap2)
 
 1. Numbered
 2. List
